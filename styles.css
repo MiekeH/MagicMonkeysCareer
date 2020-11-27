@@ -8,8 +8,8 @@ header {
 
 div {
   background-color: lightgrey;
-  width: 300px;
-  border: 10px solid green;
+  width: 500px;
+  border: 8px solid violet;
   padding: 30px;
   margin: 20px;
 }
